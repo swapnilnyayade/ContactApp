@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "swapnil nyayade",
+      "age": 15,
+      "email": "swap@gmail.com",
+      "mobile": 9370088773,
+      "description": "abc....xyz"
+    },
+    {
+      "name": "swapnil nyayade",
+      "age": "30",
+      "email": "swap@gmail.com",
+      "mobile": "9370088773",
+      "description": "abc....xyz",
+      "id": 4
+    }
+  ]
+}
